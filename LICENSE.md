@@ -1,4 +1,4 @@
-# 
+# quantitative dexscreener sniper bot | blockchain-scanning + private-RPC-nodes offers the most advanced dexscreener sniper bot, with blockchain-scanning and private-RPC-nodes.
 
 
 
